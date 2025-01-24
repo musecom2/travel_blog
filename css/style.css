@@ -480,3 +480,13 @@ a.viewall{
     height:100%;
     object-fit: cover;
 }
+
+/********** footer ***********/
+footer{
+    background-color: #ffe9e4;
+}
+footer nav{
+    margin:0px auto;
+    width:640px;
+    padding:50px;
+}
